@@ -85,8 +85,10 @@
     width: 200px;
     text-align: center;
   }
-  h4{
-    
+  footer{
+    background-color:#333;
+    padding: 40px;
+    margin-bottom: 0;
   }
   
  
